@@ -1,0 +1,12 @@
+﻿  Sourcee.cpp
+C:\Users\Pacuch\source\repos\JPO_BlackJack_Project\JPO_BlackJack_Project\Sourcee.cpp(201,24): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\Pacuch\source\repos\JPO_BlackJack_Project\JPO_BlackJack_Project\Sourcee.cpp(202,24): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  JPO_BlackJack_Project.vcxproj -> C:\Users\Pacuch\source\repos\JPO_BlackJack_Project\Debug\JPO_BlackJack_Project.exe
